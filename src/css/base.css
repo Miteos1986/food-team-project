@@ -23,7 +23,7 @@ body {
 }
 .button {
   border-radius: 30px;
-  background: var(--Button-green, #bbf330);
+  background-color: var(--Button-green, #bbf330);
   min-width: 98px;
   height: 32px;
   cursor: pointer;
